@@ -1,2 +1,2 @@
 # AI_training_2026
-みんなのAI講座の教材
+Udemy みんなのAI講座の教材によるAI学習資料
