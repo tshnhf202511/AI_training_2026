@@ -1,2 +1,11 @@
 # AI_training_2026
 Udemy みんなのAI講座の教材によるAI学習資料
+
+# 内容
+## Section 1. 人工知能の概要と開発環境
+## Section 2. Pythonの基礎
+## Section 3. 必要な数学の学習
+## Section 4. ニューラルネットワーク
+## Section 5. 機械学習
+## Section 6. 機械学習ライブラリの活用
+## Section 7. さらに学ぶために
